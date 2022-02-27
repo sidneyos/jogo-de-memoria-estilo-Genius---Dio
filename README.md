@@ -1,15 +1,13 @@
-#Criando seu jogo de memória estilo Genius
-##Digital Innovation One
-Badge
+<h1>Criando  jogo de memória estilo Genius - Digital Innovation One</h1>
 
-###Curso do Bootcamp JavaScript Game Developer da Digital Innovation One.
 
-Nesse projeto, o desafio será criar um jogo Gênesis utilizando apenas HTML, CSS e Javascript de forma introdutória, sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions.
+
+<h3>Nesse projeto, o desafio será criar um jogo utilizando apenas HTML, CSS e Javascript de forma introdutória, sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions.</h3>
 
 
 
 Como jogar: 🕹
-O seu dispositivo vai criar uma sequência de cores aleatórias e seu objetivo é  clicar na tela exatamente como a maquina fez. Conforme você vai avançando a dificuldade aumenta e você tem que decorar cada vez mais cores
+O seu dispositivo vai criar uma sequência de cores aleatórias e seu objetivo é  clicar na tela exatamente como a maquina fez. Conforme você vai avançando a dificuldade aumenta e você tem que decorar cada vez mais cores.
 
 Regras 🧩
 Objetivo: Clique nas cores certas o máximo possível para treinar a memoria.
