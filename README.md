@@ -1,4 +1,4 @@
-<h1>Criando  jogo de memória estilo Genius - Digital Innovation One</h1>
+<h1 align="center">Criando  jogo de memória estilo Genius - Digital Innovation One</h1>
 
 
 
